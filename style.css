@@ -1,4 +1,44 @@
-body {background-color:tan;}
-h1{color:green;}
 
+        body{ background-color:black;font-family: arial;color: white;}
+        h1{color: gray;font-family: verdana;}
+        .maindiv{
+            background-color:white;color:black;
+            width:500px;
+            padding:25px;
+            border-radius:25px;
+            margin-left: auto;margin-right: auto;
+        }
+        #principal {position: relative;
+                    margin-left:135px;
 
+                  
+
+        }
+        #myRange{position: relative;
+                margin-left:141px;
+
+        }
+       .button{
+                position: relative;
+                margin-left:0px;
+       }
+       .n_years{
+                position: relative;
+                margin-left:70px;
+       }
+       .amount_input{
+                position: relative;
+                margin-left:70px;
+       }
+       .int_rate{
+                position: relative;
+                 margin-left:70px;
+       }
+       #years{
+                 position: relative;
+                margin-left:104px;
+       }
+       .footer{
+                 position: relative;
+                 margin-left:-70px;
+       }
